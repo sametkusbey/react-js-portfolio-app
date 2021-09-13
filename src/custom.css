@@ -1,0 +1,196 @@
+body {
+  overflow-x: hidden !important;
+}
+
+.main-title {
+  text-align: center;
+  color: #D50000;
+}
+
+.brand-logo {
+  width: 10%;
+}
+
+.brand-name {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.nav-item {
+  font-weight: 700;
+}
+
+.navbar-right {
+  margin-right: 10em;
+}
+
+.nav-link.active {
+  color: #D50000 !important;
+}
+
+.nav-link {
+  color: #000000 !important;
+}
+
+.bg-custom-1 {
+  background-color: #85144b;
+}
+
+.bg-custom-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+.dummy-text {
+  text-align: justify;
+  font-weight: 500;
+}
+
+.scorp-logo {
+  width: 50%;
+  border-radius: 12rem !important;
+}
+
+.rounded{
+  border-radius: 12rem !important;
+}
+
+.btn-primary {
+  border-radius: 5px;
+  background-color: #D50000 !important;
+  border: 1px solid #D50000 !important;
+  font-weight: 500 !important;
+  width: 10em;
+}
+
+.btn-primary:focus {
+  outline: 0 !important;
+}
+
+.navbar-expand-lg {
+  border-bottom: 2px solid #D50000;
+}
+
+.custom-dropdown {
+  margin-left: 0.5em;
+}
+
+.data-column {
+  margin-top: 2em !important;
+}
+
+#language-switcher {
+  width: 10em !important;
+  background-color: transparent;
+  border: 2px solid #8395a7;
+  color: #8395a7;
+  font-weight: 500;
+  margin-top: 7px;
+}
+
+#profile-switcher {
+  width: 13em;
+  background-color: #01a3a4;
+  border: 1px solid #01a3a4;
+  font-weight: 500;
+  margin-top: 7px;
+
+}
+
+.copyright-title {
+  text-align: center;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.footer {
+  background-color: #1e272e;
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+}
+
+.copyright-subtext {
+  text-align: center;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.profile-dropdown{
+  margin-left: 1em;
+}
+
+.ui.inverted.menu{
+  background-color: #1e272e !important;
+}
+
+.header-menu{
+  border-radius: 0 !important;
+}
+
+.header-container{
+  width: 75% !important;
+}
+
+.login-button{
+  background-color: #D50000 !important;
+}
+
+.contact-form{
+  margin-top: 5em;
+}
+
+.message-send{
+  background-color:#27ae60 !important;
+  color: #ffffff !important;
+}
+
+.login-href{
+  margin-top:-7px;
+}
+
+.login-form{
+  margin-top: 5em;
+}
+
+.login-system{
+  background-color: #27ae60 !important;
+  color: #ffffff !important;
+
+}
+
+.contact-title{
+  color: #D50000;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+
+}
+
+.login-title{
+  color: #D50000;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+}
+
+.formdata-result{
+  margin-top: 2em;
+}
+
+.res-block {
+  display: inline-block;
+}
+
+.language-change-button{
+  border: 2px solid #D50000 !important;
+    width: 3rem !important;
+    background-color: transparent !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+}
+
+.language-dropdown{
+  margin-top: 1em;
+  display: flex;
+}

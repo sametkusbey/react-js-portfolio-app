@@ -1,0 +1,28 @@
+{
+    "MainTitle": "Samet KUSBEY",
+    "ContactForm":"Contact Form",
+    "FormNameSurname":"Name Surname",
+    "FormMail":"E-Mail",
+    "FormSend":"Send Message",
+    "FormMessage":"Your Message",
+    "FormCountry":"Country",
+    "FormPhoneNumber":"Phone Number",
+    "FormCountryPlaceholder":"Please Select Your Country",
+    "BrandTitle":"Samet Kusbey Portfolio",
+    "LoginText":"Login",
+    "LoginFormName":"User Name",
+    "LoginFormMail":"E-Mail",
+    "LoginFormPassword":"Password",
+    "LoginFormLanguageSelect":"Select Language",
+    "LoginFormLanguage":"Language",
+    "LoginFormButton":"Login",
+    "HeaderHomeText":"Home",
+    "HeaderContactText":"Contact Us",
+    "LoginFormTitle":"Login Your Account",
+    "dummyText":"Hello, I developed this project with the React.js library. There is also a basic contact form in this multi-language project, which has a login module that fully supports the SPA architecture. React redux was used in the global state management structure in the project.",
+    "ProfileInfoText":"My Account",
+    "LogoutText":"Logout",
+    "FooterCopyrightText": "Designed By sametkusbey"
+
+   
+  }

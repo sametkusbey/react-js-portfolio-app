@@ -1,0 +1,28 @@
+{
+    "MainTitle": "Samet KUSBEY",
+    "ContactForm":"İletişim Formu",
+    "FormNameSurname":"Ad Soyad",
+    "FormMail":"E-Posta",
+    "FormSend":"Mesajı Gönder",
+    "FormMessage":"Mesajınız",
+    "FormCountry":"Ülke",
+    "FormPhoneNumber":"Telefon Numarası",
+    "FormCountryPlaceholder":"Lütfen Ülke Seçiniz",
+    "BrandTitle":"Samet Kusbey Portfolio",
+    "LoginText":"Giriş Yap",
+    "LoginFormName":"Kullanıcı Adı",
+    "LoginFormMail":"E-Posta",
+    "LoginFormPassword":"Şifre",
+    "LoginFormLanguage":"Dil",
+    "LoginFormLanguageSelect":"Dil Seçiniz",
+    "LoginFormButton":"Giriş Yap",
+    "HeaderHomeText":"Ana Sayfa",
+    "HeaderContactText":"Bize Ulaşın",
+    "LoginFormTitle":"Hesabınıza Giriş Yapın",
+    "dummyText":"Merhaba, bu projeyi React.js kütüphanesi ile geliştirdim. SPA mimarisini tamamen destekleyen login modülü bulunan, çoklu dil desteği olan bu projede aynı zamanda basic bir contact form bulunmakta. Projede global state management yapısında React redux kullanıldı.",
+    "ProfileInfoText":"Bilgilerim",
+    "LogoutText":"Çıkış Yap",
+    "FooterCopyrightText": "sametkusbey tarafından tasarlandı"
+
+   
+  }
