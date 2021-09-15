@@ -8,8 +8,11 @@ SPA mimarisine tümüyle uymakta.
 login ve contact modülleri bulunmakta.
 
 --REDUX
+
 --REACT JS
+
 --HOOKS
+
 --FETCH AND AXİOS
 
 UYGULAMA EKRAN GÖRÜNTÜLERİ
